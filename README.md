@@ -85,5 +85,3 @@ This feature suggests products that are often purchased in the same order as the
 -   **Horizontal Scrolling**: Long tag lists in the sidebar are truncated or wrapped; extremely long lists might need a "Show More" virtualization if the dataset grows significantly (though currently handled with a scrollable area).
 -   **Image Placeholders**: If a product image fails to load, a fallback placeholder is shown.
 
----
-*Built by Dharmil Karia*
